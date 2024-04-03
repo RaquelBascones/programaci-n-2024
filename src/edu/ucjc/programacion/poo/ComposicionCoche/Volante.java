@@ -1,33 +1,34 @@
-package edu.ucjc.programacion.poo.composicion;
+package edu.ucjc.programacion.poo.ComposicionCoche;
 
-public class Silla {
+public class Volante {
 	private long id;
+	private String tipo;
 	private String color;
-	private double precio;
 	
-	public Silla(long id, String color, double precio) {
+	public Volante(long id, String tipo, String color) {
 		super();
 		this.id = id;
+		this.tipo = tipo;
 		this.color = color;
-		this.precio = precio;
 	}
+	
 	public long getId() {
 		return id;
 	}
 	public void setId(long id) {
 		this.id = id;
 	}
+	public String getTipo() {
+		return tipo;
+	}
+	public void setTipo(String tipo) {
+		this.tipo = tipo;
+	}
 	public String getColor() {
 		return color;
 	}
 	public void setColor(String color) {
 		this.color = color;
-	}
-	public double getPrecio() {
-		return precio;
-	}
-	public void setPrecio(double precio) {
-		this.precio = precio;
 	}
 	
 	

@@ -1,4 +1,4 @@
-package edu.ucjc.programacion.poo;
+package edu.ucjc.programacion.poo.Alumno;
 
 public class Universidad {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.ucjc.programacion.poo.composicion;
+package edu.ucjc.programacion.poo.ComposicionOficina;
 
 public class Mesa {
 	private long id;

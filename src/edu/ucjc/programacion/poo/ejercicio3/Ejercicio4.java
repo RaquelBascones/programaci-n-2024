@@ -1,6 +1,6 @@
 package edu.ucjc.programacion.poo.ejercicio3;
 
-import edu.ucjc.programacion.poo.Alumno;
+import edu.ucjc.programacion.poo.Alumno.Alumno;
 
 /*
  * Definir método que eleve un numero a la potencia pasada

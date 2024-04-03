@@ -1,4 +1,4 @@
-package edu.ucjc.programacion.poo;
+package edu.ucjc.programacion.poo.Alumno;
 
 import java.util.Scanner;
 

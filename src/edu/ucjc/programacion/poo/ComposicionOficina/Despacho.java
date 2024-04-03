@@ -1,4 +1,4 @@
-package edu.ucjc.programacion.poo.composicion;
+package edu.ucjc.programacion.poo.ComposicionOficina;
 
 public class Despacho {
 	private String ref;

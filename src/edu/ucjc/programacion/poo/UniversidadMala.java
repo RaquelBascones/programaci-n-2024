@@ -1,5 +1,8 @@
 package edu.ucjc.programacion.poo;
 
+import edu.ucjc.programacion.poo.Alumno.Alumno;
+import edu.ucjc.programacion.poo.Alumno.Utilidades;
+
 public class UniversidadMala {
 	public static void main(String[]args) {
 		

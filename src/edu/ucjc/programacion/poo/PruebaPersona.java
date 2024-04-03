@@ -1,5 +1,7 @@
 package edu.ucjc.programacion.poo;
 
+import edu.ucjc.programacion.poo.Alumno.Persona;
+
 public class PruebaPersona {
 
 	public static void main(String[]args) {
